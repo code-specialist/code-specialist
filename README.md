@@ -11,7 +11,6 @@ Straight forward and without complicated explanations – Our goal is to make co
 
 ### Follow us
 
-[<img align="left" alt="code-specialist.com" width="22px" src="https://code-specialist.com/wp-content/uploads/2020/06/CodeSpecialist_Symbol.svg" />][website]
 [<img align="left" alt="Code Specialist | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Code Specialist | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Code Specialist | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />][pinterest]
