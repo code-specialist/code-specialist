@@ -7,8 +7,6 @@ Straight forward and without complicated explanations – Our goal is to make co
 - [Yannic Schröer][account-yannic]
 - [Jonas Scholl][account-jonas]
 
-<br />
-
 ---
 
 ### Follow us
