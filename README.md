@@ -1,11 +1,15 @@
-### [Code Specialist][website] - Code Quality Blog 👋
+## [Code Specialist][website] - Code Quality Blog 💻
 
 Straight forward and without complicated explanations – Our goal is to make complex concepts as easy as possible. We have no narcissistically driven intents on making things harder than they must be.
 
-## Authors
+### Authors
 
 - [Yannic Schröer][account-yannic]
 - [Jonas Scholl][account-jonas]
+
+<br />
+
+---
 
 ### Follow us
 
@@ -15,7 +19,6 @@ Straight forward and without complicated explanations – Our goal is to make co
 [<img align="left" alt="Code Specialist | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />][pinterest]
 [<img align="left" alt="Code Specialist | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-<br />
 <br />
 
 ---
