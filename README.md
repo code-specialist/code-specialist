@@ -22,11 +22,11 @@ Straight forward and without complicated explanations – Our goal is to make co
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Use Python Type Hints!](https://code-specialist.com/python/type-hints/)
 - [Concurrency in Python](https://code-specialist.com/technical-background/concurrency-in-python/)
 - [Meaningful Names](https://code-specialist.com/write-better-code/meaningful-names/)
 - [PyYAML 5.3.1 Github Actions Error](https://code-specialist.com/errors/pyaml5-3-1-github-actions/)
 - [Comments – What you should keep in mind](https://code-specialist.com/write-better-code/comments/)
-- [KISS Principle (Computer Science)](https://code-specialist.com/code-principles/kiss-principle/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://code-specialist.com
