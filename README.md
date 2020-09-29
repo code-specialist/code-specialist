@@ -22,11 +22,11 @@ Straight forward and without complicated explanations – Our goal is to make co
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Underscores in Python](https://code-specialist.com/python/underscores-in-python/)
 - [… \r’: No such file or directory](https://code-specialist.com/errors/r-no-such-file-or-directory/)
 - [Use Python Type Hints!](https://code-specialist.com/python/type-hints/)
 - [Concurrency in Python](https://code-specialist.com/technical-background/concurrency-in-python/)
 - [Meaningful Names](https://code-specialist.com/write-better-code/meaningful-names/)
-- [PyYAML 5.3.1 Github Actions Error](https://code-specialist.com/errors/pyaml5-3-1-github-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://code-specialist.com
