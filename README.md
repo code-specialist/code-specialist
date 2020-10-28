@@ -22,11 +22,11 @@ Straight forward and without complicated explanations – Our goal is to make co
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Python Easter Eggs](https://code-specialist.com/python/7-python-easter-eggs/)
 - [Compensating the Switch-Statement in Python](https://code-specialist.com/python/compensating-the-switch-statement-in-python/)
 - [How to use Linux Ubuntu with Windows 10](https://code-specialist.com/environment/how-to-use-linux-ubuntu-with-windows-10/)
 - [Underscores in Python](https://code-specialist.com/python/underscores-in-python/)
 - [… \r’: No such file or directory](https://code-specialist.com/errors/r-no-such-file-or-directory/)
-- [Use Python Type Hints!](https://code-specialist.com/python/type-hints/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://code-specialist.com
