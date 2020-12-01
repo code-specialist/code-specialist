@@ -26,7 +26,7 @@ Straight forward and without complicated explanations – Our goal is to make co
 - [7 Python Easter Eggs4.7 (3)](https://code-specialist.com/python/7-python-easter-eggs/)
 - [Compensating the Switch-Statement in Python4.6 (5)](https://code-specialist.com/python/compensating-the-switch-statement-in-python/)
 - [How to use Linux Ubuntu with Windows 104.5 (2)](https://code-specialist.com/environment/how-to-use-linux-ubuntu-with-windows-10/)
-- [Underscores in Python4.5 (2)](https://code-specialist.com/python/underscores-in-python/)
+- [Underscores in Python4.7 (3)](https://code-specialist.com/python/underscores-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://code-specialist.com
