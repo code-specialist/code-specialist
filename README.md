@@ -22,7 +22,7 @@ Straight forward and without complicated explanations – Our goal is to make co
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Midpoint Line Algorithm5 (2)](https://code-specialist.com/algorithms/midpoint-line-algorithm/)
+- [Midpoint Line Algorithm4.5 (2)](https://code-specialist.com/algorithms/midpoint-line-algorithm/)
 - [7 Python Easter Eggs4.7 (3)](https://code-specialist.com/python/7-python-easter-eggs/)
 - [Compensating the Switch-Statement in Python4.6 (5)](https://code-specialist.com/python/compensating-the-switch-statement-in-python/)
 - [How to use Linux Ubuntu with Windows 104.5 (2)](https://code-specialist.com/environment/how-to-use-linux-ubuntu-with-windows-10/)
