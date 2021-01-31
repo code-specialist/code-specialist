@@ -22,11 +22,11 @@ Straight forward and without complicated explanations – Our goal is to make co
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Visualize K Means Algorithm in Python5 (1)](https://code-specialist.com/uncategorized/k-means-algorithm/)
 - [Dictionary-Tricks in Python5 (1)](https://code-specialist.com/python/dictionary-tricks-in-python/)
 - [Marching Cubes Algorithm5 (2)](https://code-specialist.com/algorithms/marching-cubes-algorithm/)
 - [Midpoint Line Algorithm4.8 (6)](https://code-specialist.com/algorithms/midpoint-line-algorithm/)
 - [7 Python Easter Eggs4.7 (3)](https://code-specialist.com/python/7-python-easter-eggs/)
-- [Compensating the Switch-Statement in Python4.7 (6)](https://code-specialist.com/python/compensating-the-switch-statement-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://code-specialist.com
