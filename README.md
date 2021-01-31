@@ -22,11 +22,11 @@ Straight forward and without complicated explanations – Our goal is to make co
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Category: “Code Interview”0 (0)](https://code-specialist.com/code-interview/new-category-code-interview/)
 - [GRASP – General Responsibility Assignment Software Principles5 (1)](https://code-specialist.com/code-principles/grasp/)
 - [Visualize K Means Algorithm in Python5 (1)](https://code-specialist.com/python/k-means-algorithm/)
 - [Dictionary-Tricks in Python5 (1)](https://code-specialist.com/python/dictionary-tricks-in-python/)
 - [Marching Cubes Algorithm5 (2)](https://code-specialist.com/algorithms/marching-cubes-algorithm/)
-- [Midpoint Line Algorithm4.8 (6)](https://code-specialist.com/algorithms/midpoint-line-algorithm/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://code-specialist.com
