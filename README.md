@@ -24,7 +24,7 @@ Straight forward and without complicated explanations – Our goal is to make co
 <!-- BLOG-POST-LIST:START -->
 - [Bubble Sort in Python and how to Visualize it5 (3)](https://code-specialist.com/algorithms/bubble-sort-python/)
 - [Reverse words in a string4.7 (3)](https://code-specialist.com/code-interview/reverse-words-in-a-string/)
-- [New Category: “Code Interview”4.7 (3)](https://code-specialist.com/code-interview/new-category-code-interview/)
+- [New Category: “Code Interview”4.8 (4)](https://code-specialist.com/code-interview/new-category-code-interview/)
 - [GRASP – General Responsibility Assignment Software Principles5 (2)](https://code-specialist.com/code-principles/grasp/)
 - [Visualize K Means Algorithm in Python5 (2)](https://code-specialist.com/python/k-means-algorithm/)
 <!-- BLOG-POST-LIST:END -->
