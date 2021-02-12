@@ -22,11 +22,11 @@ Straight forward and without complicated explanations – Our goal is to make co
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Syntax Features in Python 3.95 (2)](https://code-specialist.com/python/new-syntax-features-in-python-3-9/)
 - [5 Ways to Speed Up Python Code5 (4)](https://code-specialist.com/python/5-ways-to-speed-up-python-code/)
 - [Bubble Sort in Python and how to Visualize it5 (4)](https://code-specialist.com/algorithms/bubble-sort-python/)
 - [Reverse words in a string4.8 (4)](https://code-specialist.com/code-interview/reverse-words-in-a-string/)
 - [New Category: “Code Interview”4.8 (5)](https://code-specialist.com/code-interview/new-category-code-interview/)
-- [GRASP – General Responsibility Assignment Software Principles5 (2)](https://code-specialist.com/code-principles/grasp/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://code-specialist.com
