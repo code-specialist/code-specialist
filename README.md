@@ -36,6 +36,8 @@ Straight forward and without complicated explanations – Our goal is to make co
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Python Flask Google Login: [HOW TO]  Google Login for Flask (2021)](https://www.youtube.com/watch?v=FKgJEfrhU1E)
+- [HOW TO SPEED UP PYTHON: 5 [ACTIONABLE] Ways to Increase Pythons Speed (2021)](https://www.youtube.com/watch?v=WgUs-w2MrsM)
 <!-- YOUTUBE:END -->
 
 ---
