@@ -45,6 +45,7 @@ Straight forward and without complicated explanations – Our goal is to make co
 ### 📕 Latest Medium Posts
 
 <!-- MEDIUM:START -->
+- [How to implement, optimize and visualize Bubble Sort in Python](https://medium.com/@code-specialist/how-to-implement-optimize-and-visualize-bubble-sort-in-python-81e27787c1ae?source=rss-2ac79591872f------2)
 <!-- MEDIUM:END -->
 
 [website]: https://code-specialist.com
