@@ -26,7 +26,7 @@ Straight forward and without complicated explanations – Our goal is to make co
 - [5 Ways to Speed Up Python Code4.3 (6)](https://code-specialist.com/python/5-ways-to-speed-up-python-code/)
 - [Bubble Sort in Python and how to Visualize it5 (4)](https://code-specialist.com/algorithms/bubble-sort-python/)
 - [Reverse words in a string4.8 (4)](https://code-specialist.com/code-interview/reverse-words-in-a-string/)
-- [New Category: “Code Interview”4.8 (5)](https://code-specialist.com/code-interview/new-category-code-interview/)
+- [New Category: “Code Interview”4.8 (6)](https://code-specialist.com/code-interview/new-category-code-interview/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://code-specialist.com
