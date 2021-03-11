@@ -27,7 +27,7 @@ Straight forward and without complicated explanations – Our goal is to make co
 - [5 Hardware Ideas to Upgrade your Programming Experience5 (1)](https://code-specialist.com/hardware/5-hardware-ideas-to-upgrade-your-programming-experience/)
 - [5 Programming facts every programmer must know5 (2)](https://code-specialist.com/nice-to-know/programming-facts-every-programmer-must-know/)
 - [Decorators in Python5 (1)](https://code-specialist.com/python/decorators-in-python/)
-- [New Syntax Features in Python 3.95 (3)](https://code-specialist.com/python/new-syntax-features-in-python-3-9/)
+- [New Syntax Features in Python 3.95 (4)](https://code-specialist.com/python/new-syntax-features-in-python-3-9/)
 - [5 Ways to Speed Up Python Code4.3 (6)](https://code-specialist.com/python/5-ways-to-speed-up-python-code/)
 <!-- CODE-SPECIALIST:END -->
 
