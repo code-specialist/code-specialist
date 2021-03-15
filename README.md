@@ -24,11 +24,11 @@ Straight forward and without complicated explanations – Our goal is to make co
 ### 📕 Latest Blog Posts
 
 <!-- CODE-SPECIALIST:START -->
-- [SOLID Principles with Python Code Examples5 (1)](https://code-specialist.com/code-principles/solid/)
-- [5 Hardware Ideas to Upgrade your Programming Experience5 (1)](https://code-specialist.com/hardware/5-hardware-ideas-to-upgrade-your-programming-experience/)
-- [5 Programming facts every programmer must know5 (2)](https://code-specialist.com/nice-to-know/programming-facts-every-programmer-must-know/)
-- [Decorators in Python5 (1)](https://code-specialist.com/python/decorators-in-python/)
-- [New Syntax Features in Python 3.95 (4)](https://code-specialist.com/python/new-syntax-features-in-python-3-9/)
+- [SOLID Principles with Python Code Examples](https://code-specialist.com/code-principles/solid/)
+- [5 Hardware Ideas to Upgrade your Programming Experience](https://code-specialist.com/hardware/5-hardware-ideas-to-upgrade-your-programming-experience/)
+- [5 Programming facts every programmer must know](https://code-specialist.com/nice-to-know/programming-facts-every-programmer-must-know/)
+- [Decorators in Python](https://code-specialist.com/python/decorators-in-python/)
+- [New Syntax Features in Python 3.9](https://code-specialist.com/python/new-syntax-features-in-python-3-9/)
 <!-- CODE-SPECIALIST:END -->
 
 ---
