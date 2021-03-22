@@ -13,27 +13,47 @@ Straight forward and without complicated explanations – Our goal is to make co
 
 [<img align="left" alt="Code Specialist | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Code Specialist | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Code Specialist | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />][pinterest]
 [<img align="left" alt="Code Specialist | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Code Specialist | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Code Specialist | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
 
 ---
 
 ### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Dictionary-Tricks in Python5 (1)](https://code-specialist.com/python/dictionary-tricks-in-python/)
-- [Marching Cubes Algorithm5 (2)](https://code-specialist.com/algorithms/marching-cubes-algorithm/)
-- [Midpoint Line Algorithm4.8 (6)](https://code-specialist.com/algorithms/midpoint-line-algorithm/)
-- [7 Python Easter Eggs4.7 (3)](https://code-specialist.com/python/7-python-easter-eggs/)
-- [Compensating the Switch-Statement in Python4.7 (6)](https://code-specialist.com/python/compensating-the-switch-statement-in-python/)
-<!-- BLOG-POST-LIST:END -->
+
+<!-- CODE-SPECIALIST:START -->
+- [SOLID Principles with Python Code Examples](https://code-specialist.com/code-principles/solid/)
+- [5 Hardware Ideas to Upgrade your Programming Experience](https://code-specialist.com/hardware/5-hardware-ideas-to-upgrade-your-programming-experience/)
+- [5 Programming facts every programmer must know](https://code-specialist.com/nice-to-know/programming-facts-every-programmer-must-know/)
+- [Decorators in Python](https://code-specialist.com/python/decorators-in-python/)
+- [New Syntax Features in Python 3.9](https://code-specialist.com/python/new-syntax-features-in-python-3-9/)
+<!-- CODE-SPECIALIST:END -->
+
+---
+
+### 🎥 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Python Flask Google Login: [HOW TO]  Google Login for Flask (2021)](https://www.youtube.com/watch?v=FKgJEfrhU1E)
+- [HOW TO SPEED UP PYTHON: 5 [ACTIONABLE] Ways to Increase Pythons Speed (2021)](https://www.youtube.com/watch?v=WgUs-w2MrsM)
+<!-- YOUTUBE:END -->
+
+---
+
+### 📕 Latest Medium Posts
+
+<!-- MEDIUM:START -->
+- [How to implement, optimize and visualize Bubble Sort in Python](https://code-specialist.medium.com/how-to-implement-optimize-and-visualize-bubble-sort-in-python-81e27787c1ae?source=rss-2ac79591872f------2)
+<!-- MEDIUM:END -->
 
 [website]: https://code-specialist.com
 [facebook]: https://www.facebook.com/specialistcode/
 [twitter]: https://twitter.com/specialist_code
 [instagram]: https://www.instagram.com/specialist_code/
-[pinterest]: https://www.pinterest.de/codespecialist/
+[youtube]: https://www.youtube.com/channel/UCjdmChf65sGfOqWoygzBTyQ
+[medium]: https://code-specialist.medium.com/
 
 [account-yannic]: https://github.com/yannicschroeer
 [account-jonas]: https://github.com/JonasScholl
