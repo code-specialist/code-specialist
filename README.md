@@ -24,11 +24,11 @@ Straight forward and without complicated explanations – Our goal is to make co
 ### 📕 Latest Blog Posts
 
 <!-- CODE-SPECIALIST:START -->
+- [Cloud Foundry Components](https://code-specialist.com/cloud/cloud-foundry-components/)
 - [No matching distribution found for pkg-resources==0.0.0](https://code-specialist.com/errors/pkg-resources/)
 - [SOLID Principles with Python Code Examples](https://code-specialist.com/code-principles/solid/)
 - [5 Hardware Ideas to Upgrade your Programming Experience](https://code-specialist.com/hardware/hardware-ideas-programming/)
 - [5 Programming facts every programmer must know](https://code-specialist.com/nice-to-know/programming-facts-every-programmer-must-know/)
-- [Decorators in Python](https://code-specialist.com/python/decorators-in-python/)
 <!-- CODE-SPECIALIST:END -->
 
 ---
