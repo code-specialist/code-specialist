@@ -24,11 +24,11 @@ Straight forward and without complicated explanations – Our goal is to make co
 ### 📕 Latest Blog Posts
 
 <!-- CODE-SPECIALIST:START -->
+- [How to use .env File in GitHub Actions](https://code-specialist.com/environment/use-env-file-in-github-actions/)
 - [How to Sign All GitHub Commits](https://code-specialist.com/environment/how-to-sign-all-github-commits/)
 - [How to Learn Any Programming Language or Framework](https://code-specialist.com/mindset/how-to-learn-any-programming-language/)
 - [Cloud Foundry Components](https://code-specialist.com/cloud/cloud-foundry-components/)
 - [No matching distribution found for pkg-resources==0.0.0](https://code-specialist.com/errors/pkg-resources/)
-- [SOLID Principles with Python Code Examples](https://code-specialist.com/code-principles/solid/)
 <!-- CODE-SPECIALIST:END -->
 
 ---
