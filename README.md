@@ -24,7 +24,7 @@ Straight forward and without complicated explanations – Our goal is to make co
 ### 📕 Latest Blog Posts
 
 <!-- CODE-SPECIALIST:START -->
-- [Spring Boot RESTful API](https://code-specialist.com/java/spring-boot-restful-api/)
+- [RESTful API with Spring Boot](https://code-specialist.com/java/spring-boot-restful-api/)
 - [Hyrum’s Law of Implicit Dependencies](https://code-specialist.com/code-principles/hyrums-law/)
 - [How to Sign All GitHub Commits](https://code-specialist.com/environment/how-to-sign-all-github-commits/)
 - [How to Learn Any Programming Language or Framework](https://code-specialist.com/mindset/how-to-learn-any-programming-language/)
