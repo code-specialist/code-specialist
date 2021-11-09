@@ -36,6 +36,7 @@ Straight forward and without complicated explanations – Our goal is to make co
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [App Development Tutorial [LIVE CODING] Episode 1](https://www.youtube.com/watch?v=Fsfas73oEoY)
 - [Cloud Foundry Components Overview](https://www.youtube.com/watch?v=uPXJHoLvBPQ)
 - [Python Flask Google Login: [HOW TO]  Google Login for Flask &lpar;2021&rpar;](https://www.youtube.com/watch?v=FKgJEfrhU1E)
 - [How to speed up Python 5 [ACTIONABLE] Ways to Increase Pythons Speed &lpar;2021&rpar;](https://www.youtube.com/watch?v=WgUs-w2MrsM)
