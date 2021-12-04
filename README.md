@@ -36,6 +36,7 @@ Straight forward and without complicated explanations – Our goal is to make co
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Web App Development Tutorial: Redux in React &lpar;Typescript&rpar; [LIVE CODING - EPISODE 2]](https://www.youtube.com/watch?v=HnTcqVAd_5Q)
 - [Web App Development Tutorial: React &lpar;Typescript&rpar; Spring Boot &lpar;Java&rpar; [LIVE CODING - EPISODE 1]](https://www.youtube.com/watch?v=Fsfas73oEoY)
 - [Cloud Foundry Components Overview](https://www.youtube.com/watch?v=uPXJHoLvBPQ)
 - [Python Flask Google Login: [HOW TO]  Google Login for Flask &lpar;2021&rpar;](https://www.youtube.com/watch?v=FKgJEfrhU1E)
