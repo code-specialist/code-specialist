@@ -1,6 +1,8 @@
 ## [Code Specialist][website] - Code Quality Blog 💻
 
-Straight forward and without complicated explanations – Our goal is to make complex concepts as easy as possible. We have no narcissistically driven intents on making things harder than they must be.
+We. Love. Python. - And Quality.
+
+ ![GithubStats](https://github-readme-stats.vercel.app/api?username=code-specialist&show_icons=true&theme=dark)
 
 ### Authors
 
